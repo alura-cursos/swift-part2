@@ -29,7 +29,7 @@ class ViewController: UIViewController {
         
         print("comi \(refeicao.nome) e fiquei com felicidade: \(refeicao.felicidade)")
 
-        tabelaDeRefeicao?.adicionar(refeicao: refeicao)
+        tabelaDeRefeicao?.adicionar(refeicao)
 
         navigationController?.popViewController(animated: true)
     }

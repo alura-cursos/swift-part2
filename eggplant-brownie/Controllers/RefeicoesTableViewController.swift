@@ -13,14 +13,16 @@ class RefeicoesTableViewController: UITableViewController {
     var refeicoes = [Refeicao(nome: "Beringela", felicidade: 5),
                      Refeicao(nome: "Macarrão", felicidade: 3)]
 
-    func adicionar(refeicao: Refeicao) {
+    func adicionar(_ refeicao: Refeicao) {
         refeicoes.append(refeicao)
         tableView.reloadData()
     }
 
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        let view = segue.destination as! ViewController
-        view.tabelaDeRefeicao = self
+        if segue.identifier == "adicionarRefeicao" {
+            let view = segue.destination as! ViewController
+            view.tabelaDeRefeicao = self
+        }
     }
 
     // MARK: - UITableViewDataSource

@@ -18,7 +18,7 @@ class Refeicao: NSObject {
     
     // MARK: - Init
     
-    init(nome: String, felicidade: Int) {
+    init(nome: String, felicidade: Int, itens: [Item] = []) {
         self.nome = nome
         self.felicidade = felicidade
     }

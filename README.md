@@ -1,4 +1,4 @@
-![Thumbnail GitHub](https://github.com/giovannamoeller/readme-templates/blob/main/thumbnail-Swift%20-%20Parte%202.png?raw=true)
+![Thumbnail GitHub](https://user-images.githubusercontent.com/47362960/145265918-3bc0247f-21f9-4f06-9a3a-b449d6652e2c.png)
 
 # Egg Plant Brownie
 
@@ -10,8 +10,7 @@ A aplicação Egg Plant Brownie é a simulação de um aplicativo de refeições
 - Adicionar e selecionar os itens de uma refeição.
 - Visualizar o que foi adicionado em formato de tabela.
 
-<img src="https://github.com/giovannamoeller/readme-templates/blob/main/swift-parte2.gif?raw=true" alt="Gif mostrando o aplicativo em execução" width="350" height="700">
-
+<img src="https://user-images.githubusercontent.com/47362960/145265922-131db89b-1ecd-416d-9f2a-06d8985c6dfc.gif" alt="Gif mostrando o aplicativo em execução" width="350" height="700">
 
 ## ✔️ Técnicas e tecnologias
 
@@ -32,7 +31,7 @@ E muito mais!
  
 ## 📁 Acesso ao projeto
 
-Você pode [baixar o zip](https://github.com/alura-cursos/swift-2/archive/refs/heads/master.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/swift-2/tree/master).
+Você pode [baixar o zip](https://github.com/alura-cursos/swift-part2/archive/refs/heads/master.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/swift-part2/tree/master).
 
 ## 🛠️ Abrir e rodar o projeto
 
